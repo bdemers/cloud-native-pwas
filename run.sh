@@ -20,5 +20,5 @@ cd $r/edge-service
 
 # Client
 cd $r/client
-yarn
+yarn run ng serve &
 ng serve &
